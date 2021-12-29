@@ -1,0 +1,5 @@
+**T1 (Dijkstra) (V = 30000, E = 60000, time = 0.028 sec) Tree Cost = 40973
+
+**T2 (Dijkstra) (V = 2932, E = 656012, time = 0.113 sec) Tree Cost = 2950
+
+**T3 (Dijkstra) (V = 988, E = 83596, time = 0.004 sec) Tree Cost = 1008
